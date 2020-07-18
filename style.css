@@ -1,0 +1,174 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito+Sans:ital,wght@0,200;0,400;0,600;0,800;1,400&display=swap');
+
+body {
+    font-family: 'Nunito Sans', sans-serif;
+    background-color: #edeef0;
+}
+
+#header {
+    display: flex;
+    justify-content: center;
+    font-weight: bold;
+    background-color: yellow;
+
+
+}
+
+.nav-link {
+    cursor: pointer;
+}
+
+.nav-link:hover {
+    color: black;
+}
+
+nav {
+    background-color: white;
+
+
+
+
+}
+
+nav ul li img {
+    height: 25px;
+    width: 25px;
+
+
+
+
+
+}
+
+nav ul span {
+    width: 30px;
+}
+
+nav ul {
+    width: 70%;
+    text-align: center;
+    color: black;
+    list-style-type: none;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 10px;
+
+    margin: 0 8px;
+    font-weight: 600;
+}
+
+#homepage h1 {
+    font-size: large;
+    font-weight: bold;
+    color: black;
+    align-items: center;
+}
+
+#homepage {
+    background-color: yellow;
+    justify-content: space-between;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+
+
+
+}
+
+#homepage h4 {
+    font-style: italic;
+    font-family: sans-serif;
+    color: rgb(67, 131, 226);
+    text-decoration: rgb(67, 131, 226);
+    align-items: center;
+
+}
+
+#watchbtn {
+    background-color: yellow;
+    align-items: center;
+    height: 80px;
+    color: black;
+    font-weight: 600;
+
+
+
+
+}
+
+#watchbtn input {
+    align-items: center;
+    padding: 15px;
+    margin: 10px;
+    text-align: center;
+    border-color: white;
+    border-radius: 100px;
+    width: 15%;
+    justify-content: center;
+}
+
+footer {
+    list-style-type: none;
+    align-items: center;
+    background-color: rgb(40, 42, 46);
+    display: flex;
+    justify-content: space-between;
+    color: white;
+    font-weight: lighter;
+
+}
+
+footer ul {
+    list-style-type: none;
+
+}
+
+#homepage p {
+    align-items: center;
+    font-weight: lighter;
+}
+
+
+/*#homepage div {
+    align-items: center;
+    justify-content: center;
+}*/
+
+#homepage div img {
+    height: 300px;
+    width: 300px;
+
+
+}
+
+#p01 {
+    background-color: white;
+    display: flex;
+    justify-content: space-around;
+    padding: 20px;
+    align-items: center;
+
+
+
+}
+
+#p01 ul {
+    list-style-type: none;
+    font-weight: lighter;
+
+
+}
+
+#p01 ul li {
+    font-weight: lighter;
+}
+
+#label {
+    background-color: white;
+    padding: 20px;
+    margin: 20px;
+    align-items: center;
+
+}
